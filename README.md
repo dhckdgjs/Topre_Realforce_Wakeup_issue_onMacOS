@@ -1,5 +1,5 @@
-# Topre_Realforce_Wakeup_issue_onMacOS
-Topre Realforce Keyboard wake-up issue on the MacOS
+# Topre Realforce Wake-up issue on the MacOS
+
 
 ## Issue
 If you use the Topre Realforce Keyboard (versions prior to R2) to wake up your Mac, it will no longer operate.
